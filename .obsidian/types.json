@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Translated": "number",
+    "Reading": "number",
+    "Perfect": "number",
+    "Drawing": "number",
+    "Sport": "number"
+  }
+}

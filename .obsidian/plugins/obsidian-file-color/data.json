@@ -1,0 +1,55 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "8zJNEQ5Wv6Gtn1Juc3PDh",
+      "name": "Работа с Obsidian",
+      "value": "#aa30bb"
+    },
+    {
+      "id": "FxLRhDF7dqcWWqTELAWQb",
+      "name": "Важное",
+      "value": "#d73333"
+    },
+    {
+      "id": "X_aJeqqJSp3jNHnPx9Iv2",
+      "name": "Перевод",
+      "value": "#6ba4ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Как работать с Obsidian",
+      "color": "8zJNEQ5Wv6Gtn1Juc3PDh"
+    },
+    {
+      "path": "Как работать с Obsidian/!Принципы ведения базы.md",
+      "color": "8zJNEQ5Wv6Gtn1Juc3PDh"
+    },
+    {
+      "path": "Как работать с Obsidian/Как работать с ссылками в Обсидиане.md",
+      "color": "8zJNEQ5Wv6Gtn1Juc3PDh"
+    },
+    {
+      "path": "Как работать с Obsidian/Основы Obsidian.md",
+      "color": "8zJNEQ5Wv6Gtn1Juc3PDh"
+    },
+    {
+      "path": "Как работать с Obsidian/Markdown.md",
+      "color": "8zJNEQ5Wv6Gtn1Juc3PDh"
+    },
+    {
+      "path": "План дня/Выполнение планов.md",
+      "color": "FxLRhDF7dqcWWqTELAWQb"
+    },
+    {
+      "path": "Перевод",
+      "color": "X_aJeqqJSp3jNHnPx9Iv2"
+    },
+    {
+      "path": "Геймдев/World of Doors.md",
+      "color": "FxLRhDF7dqcWWqTELAWQb"
+    }
+  ]
+}

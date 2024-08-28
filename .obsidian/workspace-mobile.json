@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "b05ef48321690799",
+    "type": "split",
+    "children": [
+      {
+        "id": "51992a406868c0cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4430de2abf43aca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "План дня/2024/Декабрь/2024-01-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "961e09b9ceb42335",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "27b2d01e01ac8530",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9d523ae71b144a52",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "befba7bf897d2e6d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ef0987dd25307207",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dc254844e2441a21",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "49531849fc65537e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "План дня/2024/Декабрь/2024-01-14.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "26a589e789a72cf2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "План дня/2024/Декабрь/2024-01-14.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "03dc99b9e9e835f8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "План дня/2024/Декабрь/2024-01-14.md"
+          }
+        }
+      },
+      {
+        "id": "b1123e689784f07e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4200d8eaa7f58454",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "4430de2abf43aca9",
+  "lastOpenFiles": [
+    "_Resours/Шаблоны/Шаблон 1.md",
+    "Обработано/Работа в обсидиан.md",
+    "Обработано/Принципы ведения базы.md",
+    "Обработано/Заголовки.md",
+    "Без названия.md",
+    "2022-06-11.md",
+    "2022-W23.md",
+    "Вторая заметка.md",
+    "Новая заметка.md",
+    "БАЗА ЗНАНИЙ/Здоровье/Гормоны/Как стресс нас убивает.md"
+  ]
+}
