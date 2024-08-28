@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Resources/Шаблоны/TelegramNote.md",
+                "file": "Геймдев/World of Doors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Resources/Шаблоны/TelegramNote.md",
+                "file": "Геймдев/World of Doors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Resources/Шаблоны/TelegramNote.md",
+                "file": "Геймдев/World of Doors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Resources/Шаблоны/TelegramNote.md"
+                "file": "Геймдев/World of Doors.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "074f52a690625388",
+  "active": "384184a441fcc590",
   "lastOpenFiles": [
-    "Welcome.md",
     "_Resources/Шаблоны/TelegramNote.md",
+    "Welcome.md",
     "_Resources/Шаблоны/Ежедневные заметки.md",
     "_Resources/Шаблоны/Враг-Событие-Предмет.md",
     "Геймдев/World of Doors.md",
