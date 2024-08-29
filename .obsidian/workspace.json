@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Геймдев/World of Doors.md",
+                "file": "Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Геймдев/World of Doors.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Геймдев/World of Doors.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Геймдев/World of Doors.md"
+                "file": "Git.md"
               }
             }
           },
@@ -171,19 +171,21 @@
   },
   "active": "384184a441fcc590",
   "lastOpenFiles": [
+    "Геймдев/World of Doors.md",
+    "Git.md",
+    "open.url",
+    "Геймдев/WoD Kanban.md",
+    "Геймдев/Видео на просмотр.md",
+    "Геймдев/Идеи игр.md",
+    "Геймдев/Дизайн документ.md",
+    "_Resources/Шаблоны/Враг-Событие-Предмет.md",
+    "_Resources/Шаблоны/Ежедневные заметки.md",
     "_Resources/Шаблоны/TelegramNote.md",
     "Welcome.md",
-    "_Resources/Шаблоны/Ежедневные заметки.md",
-    "_Resources/Шаблоны/Враг-Событие-Предмет.md",
-    "Геймдев/World of Doors.md",
     "_Resources/Pasted image 20240624231558.png",
     "_Resources/MyNotes.md",
     "_Resources/Шаблоны",
     "_Resources",
-    "Геймдев/Идеи игр.md",
-    "Геймдев/Дизайн документ.md",
-    "Геймдев/Видео на просмотр.md",
-    "Геймдев/WoD Kanban.md",
     "Геймдев"
   ]
 }
