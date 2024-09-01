@@ -13,6 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "World of Doors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e8aaa0c464f72c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Doors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e5bd73f41d048ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Doors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "284f302bd6dd07e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Git.md",
                 "mode": "source",
                 "backlinks": false,
@@ -20,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,16 +209,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "384184a441fcc590",
+  "active": "284f302bd6dd07e3",
   "lastOpenFiles": [
-    "Геймдев/World of Doors.md",
+    "World of Doors.md",
+    "Надо подумать.md",
     "Git.md",
+    "Темы, по которым нужны гайды.md",
+    "_Resources/Картинки/Pasted image 20240901191943.png",
+    "События",
+    "Предметы",
+    "Враги/Одинокий.md",
+    "Враги/Тупик.md",
+    "Видео на просмотр.md",
+    "_Resources/Шаблоны/Враг-Событие-Предмет.md",
+    "Враги",
+    "WoD Kanban.md",
+    "_Resources/Картинки",
     "open.url",
-    "Геймдев/WoD Kanban.md",
-    "Геймдев/Видео на просмотр.md",
     "Геймдев/Идеи игр.md",
     "Геймдев/Дизайн документ.md",
-    "_Resources/Шаблоны/Враг-Событие-Предмет.md",
     "_Resources/Шаблоны/Ежедневные заметки.md",
     "_Resources/Шаблоны/TelegramNote.md",
     "Welcome.md",

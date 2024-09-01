@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "_Resources/Картинки",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
