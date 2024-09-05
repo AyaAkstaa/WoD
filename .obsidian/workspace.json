@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "События/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "События/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "События/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "События/Untitled.md"
               }
             }
           },
@@ -211,12 +211,14 @@
   },
   "active": "284f302bd6dd07e3",
   "lastOpenFiles": [
+    "Предметы/Untitled.md",
+    "События/Untitled.md",
+    "Git.md",
     "World of Doors.md",
     "Враги/Одинокий.md",
     "Враги/Тупик.md",
     "Видео на просмотр.md",
     "Надо подумать.md",
-    "Git.md",
     "Темы, по которым нужны гайды.md",
     "_Resources/Картинки/Pasted image 20240901191943.png",
     "События",
