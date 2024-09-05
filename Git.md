@@ -45,3 +45,6 @@ git revert HASH - отмена изменений в данном коммите
 git reset HASH - удаление всех коммитов, которые были после того, чей HASH
 git reset --soft HASH - удаляет коммиты, но сохраняет изменения (они не закомитчены)
 git reset --hard HASH - удаляет коммиты и все изменения в них
+
+<mark class="hltr-g">Ctrl+P &gt; Commit all changes</mark>
+<mark class="hltr-g">Ctrl+P &gt; Push</mark>
