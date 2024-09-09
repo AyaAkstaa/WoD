@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "govno/kkkk.md",
+                "file": "Враги/Kirill.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "govno/kkkk.md",
+                "file": "Враги/Kirill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "govno/kkkk.md",
+                "file": "Враги/Kirill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "govno/kkkk.md"
+                "file": "Враги/Kirill.md"
               }
             }
           },
@@ -158,13 +158,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "913528f6e2021007",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,13 +192,13 @@
   },
   "active": "284f302bd6dd07e3",
   "lastOpenFiles": [
+    "World of Doors.md",
+    "WoD Kanban.md",
     "Git.md",
     "govno/kkkk.md",
     "govno",
     "Враги/Kirill.md",
     "Видео на просмотр.md",
-    "World of Doors.md",
-    "WoD Kanban.md",
     "Темы, по которым нужны гайды.md",
     "Надо подумать.md",
     "Враги/Тупик.md",
