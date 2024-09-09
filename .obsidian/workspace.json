@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Видео на просмотр.md",
+                "file": "Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Видео на просмотр.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Видео на просмотр.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Видео на просмотр.md"
+                "file": "Git.md"
               }
             }
           },
@@ -230,8 +230,8 @@
   },
   "active": "bf269503c5b8dbcd",
   "lastOpenFiles": [
-    "Надо подумать.md",
     "Видео на просмотр.md",
+    "Надо подумать.md",
     "Git.md",
     "Порядок действий для работы с гитом.md",
     "World of Doors.md",
