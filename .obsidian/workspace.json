@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Враги/Офис/Тупик.md",
+                "file": "Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,28 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Враги/Офис/Одинокий.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd2b14746119d332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Враги/Офис/Бойлер.md",
+                "file": "World of Doors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Враги/Офис/Бойлер.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Враги/Офис/Бойлер.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Враги/Офис/Бойлер.md"
+                "file": "Git.md"
               }
             }
           },
@@ -242,27 +228,29 @@
       }
     ]
   },
-  "active": "bd2b14746119d332",
+  "active": "284f302bd6dd07e3",
   "lastOpenFiles": [
     "World of Doors.md",
-    "Враги/Офис/Камера видеонаблюдения.md",
-    "Враги/Офис/Бойлер.md",
-    "Враги/Офис/Отключение света.md",
-    "Враги/Офис/Одинокий.md",
-    "Враги/Офис/Комната ожидания.md",
-    "Враги/Офис/Босс.md",
     "Враги/Офис/Тупик.md",
     "Враги/Офис/Телефон.md",
     "Враги/Офис/Скибиди туалет.md",
     "Враги/Офис/Очередь.md",
+    "Враги/Офис/Отключение света.md",
+    "Враги/Офис/Одинокий.md",
     "Враги/Офис/Картина.md",
-    "Враги/Офис/★.md",
+    "Враги/Офис/Босс.md",
+    "Враги/Офис/Комната ожидания.md",
+    "Враги/Офис/Камера видеонаблюдения.md",
+    "Враги/Офис/Бойлер.md",
     "Враги/Офис",
+    "Враги/Тупик.md",
+    "Враги/Одинокий.md",
     "Враги/Kirill.md",
-    "WoD Kanban.md",
-    "Git.md",
     "govno/kkkk.md",
     "govno",
+    "Враги/Офис/★.md",
+    "WoD Kanban.md",
+    "Git.md",
     "Видео на просмотр.md",
     "Темы, по которым нужны гайды.md",
     "Надо подумать.md",
@@ -275,8 +263,6 @@
     "Враги",
     "_Resources/Картинки",
     "open.url",
-    "Геймдев/Идеи игр.md",
-    "Геймдев/Дизайн документ.md",
     "_Resources/Pasted image 20240624231558.png",
     "_Resources/Шаблоны",
     "_Resources",
