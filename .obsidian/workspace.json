@@ -8,51 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "384184a441fcc590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Doors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e8aaa0c464f72c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Doors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e5bd73f41d048ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Doors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "284f302bd6dd07e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Видео на просмотр.md",
+                "file": "Враги/Офис/Тупик.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0519d26c1521e06d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Враги/Офис/Одинокий.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd2b14746119d332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Враги/Офис/Бойлер.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bfae2466d6240c1c",
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Видео на просмотр.md",
+                "file": "Враги/Офис/Бойлер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Видео на просмотр.md",
+                "file": "Враги/Офис/Бойлер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Видео на просмотр.md"
+                "file": "Враги/Офис/Бойлер.md"
               }
             }
           },
@@ -185,56 +172,112 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "913528f6e2021007",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "284f302bd6dd07e3",
+  "floating": {
+    "id": "c4801240a081c42c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "503ceb1a954d43b0",
+        "type": "window",
+        "children": [
+          {
+            "id": "7d49513871d0909c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ae621c951fa326c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Doors.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 824,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bd2b14746119d332",
   "lastOpenFiles": [
-    "Надо подумать.md",
-    "Видео на просмотр.md",
     "World of Doors.md",
+    "Враги/Офис/Камера видеонаблюдения.md",
+    "Враги/Офис/Бойлер.md",
+    "Враги/Офис/Отключение света.md",
+    "Враги/Офис/Одинокий.md",
+    "Враги/Офис/Комната ожидания.md",
+    "Враги/Офис/Босс.md",
+    "Враги/Офис/Тупик.md",
+    "Враги/Офис/Телефон.md",
+    "Враги/Офис/Скибиди туалет.md",
+    "Враги/Офис/Очередь.md",
+    "Враги/Офис/Картина.md",
+    "Враги/Офис/★.md",
+    "Враги/Офис",
+    "Враги/Kirill.md",
+    "WoD Kanban.md",
     "Git.md",
-    "Предметы/Untitled.md",
-    "События/Untitled.md",
-    "Враги/Одинокий.md",
-    "Враги/Тупик.md",
+    "govno/kkkk.md",
+    "govno",
+    "Видео на просмотр.md",
     "Темы, по которым нужны гайды.md",
+    "Надо подумать.md",
+    "_Resources/Шаблоны/Враг-Событие-Предмет.md",
     "_Resources/Картинки/Pasted image 20240901191943.png",
+    "События/Untitled.md",
+    "Предметы/Untitled.md",
     "События",
     "Предметы",
-    "_Resources/Шаблоны/Враг-Событие-Предмет.md",
     "Враги",
-    "WoD Kanban.md",
     "_Resources/Картинки",
     "open.url",
     "Геймдев/Идеи игр.md",
     "Геймдев/Дизайн документ.md",
-    "_Resources/Шаблоны/Ежедневные заметки.md",
-    "_Resources/Шаблоны/TelegramNote.md",
-    "Welcome.md",
     "_Resources/Pasted image 20240624231558.png",
-    "_Resources/MyNotes.md",
     "_Resources/Шаблоны",
     "_Resources",
     "Геймдев"
