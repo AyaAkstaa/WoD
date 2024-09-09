@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf269503c5b8dbcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Видео на просмотр.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b1628301ade258c7",
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Doors.md",
+                "file": "Видео на просмотр.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Doors.md",
+                "file": "Видео на просмотр.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Doors.md"
+                "file": "Видео на просмотр.md"
               }
             }
           },
@@ -215,8 +228,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7e5bd73f41d048ee",
+  "active": "bf269503c5b8dbcd",
   "lastOpenFiles": [
+    "Надо подумать.md",
+    "Видео на просмотр.md",
+    "Git.md",
+    "Порядок действий для работы с гитом.md",
+    "World of Doors.md",
+    "Враги/Тупик.md",
     "Враги/Улица/Переулок.md",
     "Враги/Улица/Остановка.md",
     "Враги/Улица/Машина.md",
@@ -226,18 +245,13 @@
     "Враги/Улица/Телефонная будка.md",
     "Враги/Улица/Площадь.md",
     "Враги/Улица/Untitled",
-    "World of Doors.md",
     "Враги/Улица",
     "Враги/Kirill.md",
     "govno/kkkk.md",
-    "Видео на просмотр.md",
     "govno",
-    "Надо подумать.md",
-    "Git.md",
     "Предметы/Untitled.md",
     "События/Untitled.md",
     "Враги/Одинокий.md",
-    "Враги/Тупик.md",
     "Темы, по которым нужны гайды.md",
     "_Resources/Картинки/Pasted image 20240901191943.png",
     "События",
@@ -251,7 +265,6 @@
     "Геймдев/Дизайн документ.md",
     "_Resources/Шаблоны/Ежедневные заметки.md",
     "_Resources/Шаблоны/TelegramNote.md",
-    "Welcome.md",
     "_Resources/Pasted image 20240624231558.png",
     "_Resources/Шаблоны",
     "_Resources"
