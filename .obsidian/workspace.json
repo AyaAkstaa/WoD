@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Надо подумать.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Надо подумать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Надо подумать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Надо подумать.md"
               }
             }
           },
@@ -190,70 +190,29 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "floating": {
-    "id": "c4801240a081c42c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "503ceb1a954d43b0",
-        "type": "window",
-        "children": [
-          {
-            "id": "7d49513871d0909c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5ae621c951fa326c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Doors.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 824,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "284f302bd6dd07e3",
   "lastOpenFiles": [
+    "Темы, по которым нужны гайды.md",
+    "Git.md",
+    "WoD Kanban.md",
     "World of Doors.md",
+    "Надо подумать.md",
+    "Видео на просмотр.md",
+    "Враги/Офис/Бойлер.md",
     "Враги/Офис/Тупик.md",
     "Враги/Офис/Телефон.md",
+    "Враги/Офис/Комната ожидания.md",
     "Враги/Офис/Скибиди туалет.md",
     "Враги/Офис/Очередь.md",
     "Враги/Офис/Отключение света.md",
     "Враги/Офис/Одинокий.md",
     "Враги/Офис/Картина.md",
     "Враги/Офис/Босс.md",
-    "Враги/Офис/Комната ожидания.md",
     "Враги/Офис/Камера видеонаблюдения.md",
-    "Враги/Офис/Бойлер.md",
     "Враги/Офис",
     "Враги/Тупик.md",
     "Враги/Одинокий.md",
-    "Враги/Kirill.md",
-    "govno/kkkk.md",
-    "govno",
     "Враги/Офис/★.md",
-    "WoD Kanban.md",
-    "Git.md",
-    "Видео на просмотр.md",
-    "Темы, по которым нужны гайды.md",
-    "Надо подумать.md",
     "_Resources/Шаблоны/Враг-Событие-Предмет.md",
     "_Resources/Картинки/Pasted image 20240901191943.png",
     "События/Untitled.md",
